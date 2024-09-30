@@ -77,6 +77,7 @@ function onDocumentKeyDown(event){
             break;
     }
 }
+
 function onDocumentKeyUp(event){
     switch (event.key) {
         case "ArrowUp":
